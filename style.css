@@ -24,10 +24,6 @@
   --switch-bg-url: url(./assets/sun.svg);
 }
 
-.negrito {
-    font-weight: bold;
-  } 
-
 body {
   background: var(--bg-url);
   background-repeat: no-repeat;
